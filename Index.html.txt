@@ -144,7 +144,7 @@
 
 <!-- FOOTER -->
 <footer>
-    <p>&copy; 2025 filedormantaccounts.co.uk — All Rights Reserved</p>
+    <p>&copy; 2025 filedormantaccounts.co.uk — All Rights Reserved.</p>
 </footer>
 
 </body>

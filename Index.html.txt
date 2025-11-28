@@ -15,7 +15,7 @@
     <title>File Dormant Accounts Online | £ | Fast, Simple & HMRC Companies House Compliant</title>
 
     <!-- SEO Meta Description -->
-    <meta name="description" content="File dormant company accounts online for only £8. Fast, simple and fully compliant with Companies House. Perfect for UK dormant companies. Same‑day submission.">
+    <meta name="description" content="File dormant company accounts online for only £. Fast, simple and fully compliant with Companies House. Perfect for UK dormant companies. Same‑day submission.">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://www.filedormantaccounts.co.uk/">
